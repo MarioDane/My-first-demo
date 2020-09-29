@@ -2,4 +2,5 @@
 *.exe
 #progit manual
 *.pdf
-/Demo Hello world/.vscode/
+#VS Code配置文件夹
+Demo Hello world/.vscode/
