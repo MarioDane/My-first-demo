@@ -3,4 +3,4 @@
 #progit manual
 *.pdf
 #VS Code配置文件夹
-Demo Hello world/.vscode/
+/Hello world/.vscode/
